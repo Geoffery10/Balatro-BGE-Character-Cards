@@ -16,8 +16,6 @@ local atlas_path_hc = 'bge_hc.png' -- Filename for the high-contrast version of 
 local suits = {'hearts', 'clubs', 'diamonds', 'spades'} -- Which suits to replace
 local ranks = {'Jack', 'Queen', 'King', 'Ace'} -- Which ranks to replace
 
--- local suits = {'hearts', 'clubs', 'diamonds', 'spades'} -- Which suits to replace
-
 local description = 'BGE Characters' -- English-language description, also used as default
 
 -----------------------------------------------------------
