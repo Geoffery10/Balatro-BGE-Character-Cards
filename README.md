@@ -1,16 +1,16 @@
 # Balatro-BGE-Character-Cards
 Sakura and friends as your deck
 
-![](./Playing_Cards.gif)
+![](./Resources/Previews/Playing_Cards.gif)
 
 # Hearts
-![](./hearts.jpg)
+![](./Resources/Previews/hearts.jpg)
 
 # Diamonds
-![](./diamonds.jpg)
+![](./Resources/Previews/diamonds.jpg)
 
 # Spades
-![](./spades.jpg)
+![](./Resources/Previews/spades.jpg)
 
 # Clubs
-![](./clubs.jpg)
+![](./Resources/Previews/clubs.jpg)
